@@ -1,1 +1,4 @@
-agregando texto a archivo prueba.txt, todo bien
+
+agregando texto a archivo prueba.txt, todo bien, Agregando información en el archivo prueba.txt
+
+#puse los dos para que no peleen
